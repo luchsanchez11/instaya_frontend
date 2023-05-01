@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.form__item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form__item p{
+    color: red;
+}
